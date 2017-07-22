@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1466697690 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\date.cpp
+	"Date.h"
+
+1466683948 c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\date.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466702274 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\main.cpp
+	<iostream>
+	"StockSalesContainer.h"
+
+1466700370 c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksalescontainer.h
+	"Vector.h"
+	"StockSales.h"
+	"date.h"
+	"time.h"
+
+1466702332 c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\vector.h
+	<iostream>
+
+1466698009 c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksales.h
+	"date.h"
+	"time.h"
+	<string>
+
+1466686060 c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466698365 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksales.cpp
+	"StockSales.h"
+	<iostream>
+
+1466703582 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksalescontainer.cpp
+	"stocksalescontainer.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
+1466698272 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\time.cpp
+	"Time.h"
+
+1466681716 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\vector.cpp
+
+1466702274 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksalescontainertest.cpp
+	"stocksalescontainer.h"
+
+1466699018 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\vectortest.cpp
+	"vector.h"
+	"stocksales.h"
+
+1466693722 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\stocksalestest.cpp
+	"StockSales.h"
+
+1466694344 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\datetest.cpp
+	"date.h"
+
+1466695978 source:c:\users\aisha\desktop\209 project 1\209_proj1_cb_v4\timetest.cpp
+	"time.h"
+
+1466697692 source:g:\209_proj1_cb_v4\date.cpp
+	"Date.h"
+
+1466683950 g:\209_proj1_cb_v4\date.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466707654 source:g:\209_proj1_cb_v4\datetest.cpp
+	"date.h"
+
+1466698366 source:g:\209_proj1_cb_v4\stocksales.cpp
+	"StockSales.h"
+	<iostream>
+
+1466698010 g:\209_proj1_cb_v4\stocksales.h
+	"date.h"
+	"time.h"
+	<string>
+
+1466686062 g:\209_proj1_cb_v4\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466708150 source:g:\209_proj1_cb_v4\stocksalescontainer.cpp
+	"stocksalescontainer.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
+1466706994 g:\209_proj1_cb_v4\stocksalescontainer.h
+	"Vector.h"
+	"StockSales.h"
+	"date.h"
+	"time.h"
+
+1466702334 g:\209_proj1_cb_v4\vector.h
+	<iostream>
+
+1466708218 source:g:\209_proj1_cb_v4\stocksalescontainertest.cpp
+	"stocksalescontainer.h"
+
+1466707758 source:g:\209_proj1_cb_v4\stocksalestest.cpp
+	"StockSales.h"
+
+1466698274 source:g:\209_proj1_cb_v4\time.cpp
+	"Time.h"
+
+1466707842 source:g:\209_proj1_cb_v4\timetest.cpp
+	"time.h"
+
+1466681718 source:g:\209_proj1_cb_v4\vector.cpp
+
+1466708428 source:g:\209_proj1_cb_v4\vectortest.cpp
+	"vector.h"
+	"stocksales.h"
+
+1466707442 source:g:\209_proj1_cb_v4\main.cpp
+	<iostream>
+	"StockSalesContainer.h"
+
+1466697692 source:g:\209_proj1_aishak\209_proj1_cb_v4\date.cpp
+	"Date.h"
+
+1466683950 g:\209_proj1_aishak\209_proj1_cb_v4\date.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466707654 source:g:\209_proj1_aishak\209_proj1_cb_v4\datetest.cpp
+	"date.h"
+
+1466708500 source:g:\209_proj1_aishak\209_proj1_cb_v4\main.cpp
+	<iostream>
+	"StockSalesContainer.h"
+
+1466706994 g:\209_proj1_aishak\209_proj1_cb_v4\stocksalescontainer.h
+	"Vector.h"
+	"StockSales.h"
+	"date.h"
+	"time.h"
+
+1466702334 g:\209_proj1_aishak\209_proj1_cb_v4\vector.h
+	<iostream>
+
+1466698010 g:\209_proj1_aishak\209_proj1_cb_v4\stocksales.h
+	"date.h"
+	"time.h"
+	<string>
+
+1466686062 g:\209_proj1_aishak\209_proj1_cb_v4\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1466698366 source:g:\209_proj1_aishak\209_proj1_cb_v4\stocksales.cpp
+	"StockSales.h"
+	<iostream>
+
+1466708218 source:g:\209_proj1_aishak\209_proj1_cb_v4\stocksalescontainertest.cpp
+	"stocksalescontainer.h"
+
+1466707758 source:g:\209_proj1_aishak\209_proj1_cb_v4\stocksalestest.cpp
+	"StockSales.h"
+
+1466698274 source:g:\209_proj1_aishak\209_proj1_cb_v4\time.cpp
+	"Time.h"
+
+1466707842 source:g:\209_proj1_aishak\209_proj1_cb_v4\timetest.cpp
+	"time.h"
+
+1466681718 source:g:\209_proj1_aishak\209_proj1_cb_v4\vector.cpp
+
+1466708500 source:g:\209_proj1_aishak\209_proj1_cb_v4\vectortest.cpp
+	"vector.h"
+	"stocksales.h"
+
